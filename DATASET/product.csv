@@ -1,0 +1,201 @@
+"PRODUCT_ID";"PRODUCT_NAME";"PRICE";"EXPIRY_DATE";"CATEGORY_ID";"SUPPLIER_ID"
+1;"Pomello";55.1;"2021-11-21";11;2
+2;"Milk - 1%";16.87;"2021-12-25";9;48
+3;"Squash - Guords";57.35;"2021-12-13";13;46
+4;"Pancetta";1.11;"2022-02-25";20;28
+5;"Beef - Top Butt Aaa";13.65;"2021-11-26";36;1
+6;"Celery Root";53.0;"2022-07-18";34;40
+7;"Allspice - Jamaican";57.08;"2022-02-27";1;31
+8;"Island Oasis - Banana Daiquiri";46.5;"2021-12-06";12;7
+9;"Cheese - Manchego, Spanish";92.53;"2021-12-30";7;20
+10;"Potatoes - Idaho 100 Count";15.01;"2022-02-22";26;15
+11;"Bread - Roll, Whole Wheat";73.71;"2022-01-30";9;15
+12;"Marsala - Sperone, Fine, D.o.c.";71.49;"2022-09-07";27;12
+13;"Lettuce - Radicchio";52.03;"2022-06-17";14;22
+14;"Split Peas - Yellow, Dry";53.7;"2022-08-15";29;47
+15;"Coffee - Decafenated";12.55;"2022-07-06";28;26
+16;"Tabasco Sauce, 2 Oz";67.0;"2022-02-16";1;43
+17;"Potatoes - Parissienne";87.63;"2022-10-18";3;13
+18;"Dried Apple";39.4;"2021-12-07";18;27
+19;"Cheese - Cambozola";33.71;"2022-09-26";34;34
+20;"Wine - White, Riesling, Henry Of";32.33;"2022-11-09";37;20
+21;"Crackers Cheez It";65.23;"2022-03-14";29;46
+22;"Coke - Diet, 355 Ml";99.59;"2022-04-12";24;49
+23;"Lamb - Whole, Fresh";61.0;"2021-12-14";19;27
+24;"Coffee - French Vanilla Frothy";47.86;"2021-12-10";11;19
+25;"Spice - Peppercorn Melange";71.79;"2022-01-13";8;40
+26;"Appetizer - Crab And Brie";75.04;"2022-10-21";38;38
+27;"Tart - Raisin And Pecan";96.98;"2022-01-10";32;9
+28;"Ice Cream - Chocolate";3.21;"2022-08-10";21;48
+29;"Trueblue - Blueberry";71.02;"2022-03-13";39;37
+30;"Tea - Camomele";33.81;"2021-12-09";36;3
+31;"Wine - Ice Wine";91.74;"2022-01-16";7;15
+32;"Cheese Cheddar Processed";2.3;"2022-02-06";21;35
+33;"Soup - French Onion, Dry";18.07;"2022-03-24";32;37
+34;"Pur Source";93.09;"2022-09-28";4;6
+35;"Pate - Peppercorn";84.74;"2022-01-08";17;2
+36;"Appetizer - Lobster Phyllo Roll";20.45;"2021-11-19";33;30
+37;"Bar Bran Honey Nut";42.81;"2022-10-22";40;47
+38;"Flour - Whole Wheat";96.58;"2022-08-29";29;44
+39;"Pasta - Elbows, Macaroni, Dry";87.27;"2022-08-25";34;27
+40;"French Pastries";67.52;"2022-02-03";18;40
+41;"Kellogs Cereal In A Cup";15.46;"2022-06-18";8;41
+42;"Miso Paste White";51.56;"2022-05-04";39;16
+43;"Tart Shells - Savory, 3";69.93;"2022-11-15";20;26
+44;"Lobster - Base";2.74;"2022-07-17";11;40
+45;"Beef - Kindney, Whole";30.75;"2022-07-31";19;45
+46;"Lettuce - California Mix";92.86;"2022-01-12";4;28
+47;"Anchovy In Oil";53.05;"2022-06-22";21;11
+48;"Beer - Rickards Red";58.32;"2022-03-10";40;42
+49;"Longos - Grilled Veg Sandwiches";54.96;"2022-07-17";1;10
+50;"Rabbit - Legs";76.57;"2022-04-05";34;49
+51;"Asparagus - Mexican";90.64;"2022-08-13";20;26
+52;"Peppercorns - Green";11.14;"2022-08-15";2;36
+53;"Chicken - Leg / Back Attach";56.11;"2022-11-11";6;4
+54;"Wine - Shiraz South Eastern";65.79;"2022-11-05";28;41
+55;"Veal - Loin";86.48;"2022-05-01";26;38
+56;"Barramundi";55.31;"2021-12-22";33;35
+57;"Flour - Strong";96.52;"2022-07-05";22;34
+58;"Mackerel Whole Fresh";5.51;"2022-04-24";15;27
+59;"Stock - Chicken, White";41.65;"2022-03-16";12;3
+60;"Cheese - Swiss";60.07;"2021-11-26";11;50
+61;"Skirt - 24 Foot";87.0;"2022-10-07";36;42
+62;"Bandage - Finger Cots";16.79;"2022-07-16";27;5
+63;"Pepper - Red Bell";47.12;"2022-06-06";30;38
+64;"Orange Roughy 6/8 Oz";27.39;"2022-05-24";25;33
+65;"Banana - Leaves";7.8;"2022-01-26";20;30
+66;"Cherries - Fresh";95.64;"2022-04-27";15;23
+67;"Curry Paste - Madras";55.97;"2022-01-04";2;43
+68;"Fennel - Seeds";40.67;"2022-11-08";17;31
+69;"Wine - Placido Pinot Grigo";28.72;"2022-05-15";35;40
+70;"Sprouts - China Rose";17.65;"2022-02-18";13;35
+71;"Beets - Golden";27.23;"2022-09-09";4;33
+72;"Flour - Cake";32.09;"2022-06-15";30;38
+73;"Ham - Cooked Italian";82.58;"2022-10-10";31;27
+74;"Brownies - Two Bite, Chocolate";67.58;"2022-04-29";36;23
+75;"Beef - Top Sirloin - Aaa";83.78;"2022-08-07";10;20
+76;"Capers - Ox Eye Daisy";81.39;"2022-05-06";32;19
+77;"Mackerel Whole Fresh";45.04;"2021-12-25";13;30
+78;"Chips - Assorted";68.08;"2022-01-01";34;6
+79;"Gatorade - Lemon Lime";25.95;"2021-11-30";12;11
+80;"Flour - Bran, Red";38.67;"2022-04-16";9;36
+81;"Paste - Black Olive";77.7;"2022-01-05";29;37
+82;"Lemonade - Strawberry, 591 Ml";64.97;"2022-07-01";25;23
+83;"Liquid Aminios Acid - Braggs";23.55;"2022-09-25";24;26
+84;"Tuna - Fresh";2.4;"2022-05-04";38;46
+85;"V8 - Berry Blend";73.48;"2022-03-18";8;42
+86;"Tuna - Bluefin";68.54;"2022-06-30";34;48
+87;"Flour - Whole Wheat";83.08;"2022-06-17";39;30
+88;"Ecolab - Solid Fusion";16.01;"2022-02-06";1;22
+89;"Squid - U 5";4.04;"2022-05-25";33;25
+90;"Lid - Translucent, 3.5 And 6 Oz";18.63;"2022-03-18";20;18
+91;"Duck - Breast";84.07;"2022-08-19";33;31
+92;"Carbonated Water - White Grape";42.85;"2022-01-13";2;48
+93;"Nut - Walnut, Chopped";47.93;"2022-11-14";12;3
+94;"Lemon Pepper";3.51;"2022-02-18";21;36
+95;"Chips - Miss Vickies";6.43;"2022-05-16";11;50
+96;"Syrup - Chocolate";10.11;"2021-11-19";26;13
+97;"Spoon - Soup, Plastic";23.26;"2022-07-18";31;26
+98;"Pasta - Lasagna, Dry";69.15;"2022-04-05";22;20
+99;"Ecolab - Mikroklene 4/4 L";19.63;"2022-11-13";6;30
+100;"Muffin Mix - Morning Glory";3.71;"2022-07-01";32;44
+101;"Trueblue - Blueberry 12x473ml";62.99;"2022-07-30";14;19
+102;"Clam - Cherrystone";78.75;"2022-03-01";18;49
+103;"Longos - Lasagna Veg";29.88;"2022-02-15";23;12
+104;"Broom - Push";83.34;"2022-01-03";37;3
+105;"Burger Veggie";4.74;"2021-11-30";22;21
+106;"Glass Clear 8 Oz";30.96;"2022-01-01";26;42
+107;"Soup - Base Broth Chix";74.54;"2022-10-09";20;37
+108;"Milk - 1%";5.15;"2021-12-17";7;7
+109;"Beer - Pilsner Urquell";82.66;"2022-02-25";17;33
+110;"Cheese - Blue";39.91;"2022-08-21";34;8
+111;"Port - 74 Brights";15.65;"2022-04-03";27;1
+112;"Bread - Dark Rye, Loaf";10.58;"2022-11-09";22;41
+113;"Lamb Tenderloin Nz Fr";74.18;"2022-04-02";10;6
+114;"Wine - Cahors Ac 2000, Clos";11.86;"2022-05-10";40;34
+115;"Veal - Tenderloin, Untrimmed";42.99;"2022-11-09";17;44
+116;"Peppercorns - Green";25.72;"2022-08-10";32;18
+117;"Flower - Daisies";31.28;"2022-07-25";4;12
+118;"Basil - Primerba, Paste";58.5;"2022-10-10";38;3
+119;"Veal Inside - Provimi";5.06;"2022-02-06";21;16
+120;"Sponge Cake Mix - Vanilla";21.36;"2022-05-11";3;26
+121;"Skirt - 24 Foot";77.59;"2022-11-06";18;12
+122;"Maintenance Removal Charge";77.4;"2022-10-21";3;18
+123;"Chicken - Leg, Boneless";42.28;"2022-03-03";19;20
+124;"Clams - Canned";27.89;"2022-05-26";37;7
+125;"Red Cod Fillets - 225g";21.58;"2022-01-02";23;33
+126;"Beef - Ox Tongue, Pickled";74.69;"2022-04-09";1;27
+127;"Longos - Chicken Wings";96.29;"2022-06-25";21;46
+128;"Beer - Camerons Auburn";44.3;"2022-04-22";22;39
+129;"Skewers - Bamboo";80.0;"2022-09-13";17;28
+130;"Pan Grease";74.26;"2022-06-28";25;22
+131;"Marjoram - Fresh";2.45;"2022-04-22";17;35
+132;"Mushroom - Trumpet, Dry";88.02;"2022-02-23";35;1
+133;"Tomatoes Tear Drop Yellow";47.69;"2022-10-12";16;27
+134;"Nantucket - 518ml";4.22;"2022-04-30";9;36
+135;"Beans - Kidney White";49.42;"2021-12-13";21;37
+136;"Pepper - Black, Ground";83.99;"2022-07-08";26;47
+137;"Broom - Angled";43.62;"2022-06-18";15;39
+138;"Truffle Shells - Semi - Sweet";56.53;"2022-03-08";22;29
+139;"Broom And Broom Rack White";87.1;"2021-12-26";29;43
+140;"Bread - Onion Focaccia";64.35;"2022-05-09";27;5
+141;"Wine - Balbach Riverside";16.26;"2022-01-31";19;25
+142;"Salt - Celery";85.71;"2022-11-09";23;34
+143;"Dikon";70.12;"2022-03-27";14;13
+144;"Bread - White, Unsliced";34.21;"2022-01-11";25;7
+145;"Onions - White";84.43;"2021-12-31";6;29
+146;"Kellogs Cereal In A Cup";83.48;"2022-11-08";27;47
+147;"Coffee Beans - Chocolate";34.62;"2021-12-11";26;37
+148;"Nantucket - Kiwi Berry Cktl.";95.7;"2022-04-09";38;19
+149;"Jicama";26.14;"2022-10-30";9;31
+150;"Tarragon - Primerba, Paste";72.68;"2022-02-24";7;12
+151;"Bandage - Finger Cots";2.75;"2022-06-29";24;36
+152;"Pork - Suckling Pig";34.93;"2022-03-06";33;37
+153;"Nestea - Iced Tea";73.24;"2022-10-21";2;38
+154;"Bouq All Italian - Primerba";72.1;"2022-01-10";15;11
+155;"Stock - Veal, White";8.61;"2022-11-08";36;45
+156;"Mushroom - Shitake, Fresh";92.66;"2021-12-16";32;50
+157;"Lid Coffeecup 12oz D9542b";6.22;"2022-07-08";12;6
+158;"Pea - Snow";67.04;"2022-02-14";17;24
+159;"Cinnamon - Ground";93.9;"2022-08-18";11;33
+160;"Wine - Magnotta - Pinot Gris Sr";55.02;"2022-01-30";10;32
+161;"Beef - Top Butt Aaa";38.94;"2022-03-31";4;16
+162;"Wine - Ej Gallo Sierra Valley";40.59;"2022-06-22";28;42
+163;"Lettuce - Baby Salad Greens";99.77;"2022-09-08";25;46
+164;"Cheese - Parmesan Cubes";64.67;"2022-06-02";19;17
+165;"Plaintain";19.55;"2022-04-15";31;33
+166;"Salmon - Whole, 4 - 6 Pounds";7.52;"2022-09-22";6;39
+167;"Wine - White, Antinore Orvieto";91.59;"2022-03-04";36;15
+168;"Liqueur Banana, Ramazzotti";5.18;"2022-05-21";39;5
+169;"Mints - Striped Red";21.07;"2022-04-18";11;37
+170;"Yogurt - French Vanilla";99.42;"2022-05-24";26;12
+171;"Soup - Campbells, Minestrone";66.75;"2022-01-11";7;6
+172;"Pate Pans Yellow";5.17;"2021-11-24";26;23
+173;"White Baguette";51.57;"2022-09-02";24;8
+174;"Sauce - Hoisin";55.67;"2022-11-17";25;18
+175;"Frangelico";70.55;"2021-12-05";35;27
+176;"Crush - Orange, 355ml";64.82;"2022-09-22";4;38
+177;"Onions - Spanish";44.52;"2022-03-08";37;10
+178;"Cheese - Victor Et Berthold";43.57;"2022-01-21";18;15
+179;"Orange Roughy 6/8 Oz";88.1;"2022-02-22";36;36
+180;"Yogurt - French Vanilla";78.34;"2022-04-25";10;11
+181;"Cake - Mini Potato Pancake";88.47;"2022-10-26";16;17
+182;"Soup - French Can Pea";29.38;"2022-05-16";9;21
+183;"Dish Towel";72.5;"2022-09-03";32;48
+184;"Wine - Red, Marechal Foch";52.09;"2022-10-29";5;42
+185;"Sterno - Chafing Dish Fuel";37.82;"2022-07-09";26;9
+186;"Mushroom - Enoki, Fresh";9.3;"2022-07-11";17;40
+187;"Chestnuts - Whole,canned";70.01;"2022-11-03";19;22
+188;"Amarula Cream";95.03;"2022-06-06";22;44
+189;"Eel - Smoked";19.05;"2022-07-25";14;11
+190;"Tea - Green";7.59;"2022-04-04";10;27
+191;"Pastry - Cherry Danish - Mini";54.41;"2022-04-21";39;49
+192;"Potato - Sweet";80.58;"2022-10-22";18;19
+193;"Chicken - Ground";95.29;"2022-08-02";17;31
+194;"Pear - Packum";38.5;"2021-12-15";20;23
+195;"Bread - Italian Sesame Poly";19.71;"2022-07-12";10;7
+196;"Nut - Cashews, Whole, Raw";72.52;"2021-12-29";22;24
+197;"Appetizer - Cheese Bites";89.48;"2022-01-06";8;25
+198;"Hickory Smoke, Liquid";50.3;"2022-02-07";27;18
+199;"Sour Puss Raspberry";3.01;"2022-02-10";31;6
+200;"Carbonated Water - Strawberry";82.1;"2021-12-25";33;15
